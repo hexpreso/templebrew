@@ -1,5 +1,5 @@
 # templebrew
-HolyC espresso ceremony.
+Reverse-engineered HolyC relic from banned TempleOS build. Emits syscalls the CIA still denies exist.
 
 ## Run (TempleOS/derivatives)
 1. Copy `hexpreso.HC`
